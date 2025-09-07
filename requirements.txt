@@ -1,0 +1,9 @@
+numpy
+tqdm
+pandas
+openai==0.28
+Whoosh
+matplotlib
+seaborn
+streamlit
+
